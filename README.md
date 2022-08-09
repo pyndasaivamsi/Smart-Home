@@ -7,7 +7,7 @@ Things that you need:
   <li>Smoke detector MQ6</li>
   <li>PIR</li>
   <li>LDR</li>
-  <li>Ultrasonic</li>
+  <li>Ultrasonic Distance Sensor</li>
   <li>DC power source(Any 12V)</li>
   <li>Relay boards of 2 channels </li>
 </ul>
