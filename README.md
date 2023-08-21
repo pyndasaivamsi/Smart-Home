@@ -46,7 +46,7 @@ This is a sensor which helps us to turn on the lights in the dark or at night ti
 
 ![bulb](https://user-images.githubusercontent.com/97884235/178326185-30a5165f-abeb-425d-8f98-b43352ae4156.png)
 
-When it's day-time, it detects high brightness and switches off the lights
+When it's day-time, it detects high brightness and switches off the lights.
 
 ![bulb off](https://user-images.githubusercontent.com/97884235/178326324-73c2487f-b1ec-4e2d-acdf-f113c49f78bf.png)
 
